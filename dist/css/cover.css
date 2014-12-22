@@ -82,6 +82,7 @@ body {
   color: #fff; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
+  margin-bottom:20px;
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
@@ -116,6 +117,10 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+}
+
+.cover-image {
+  margin-top:150px;
 }
 
 
