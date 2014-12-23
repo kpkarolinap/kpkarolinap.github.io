@@ -112,6 +112,17 @@ body {
   }
 }
 
+/*
+ * Contact page
+ */
+ .contact {
+  color:yellow;
+  width:70px;
+  height:70px;
+  margin:10px;
+  background-color: #FFB2B2;
+  border-radius:10px;
+ }
 
 /*
  * Cover
@@ -140,7 +151,7 @@ body {
 }
 
 .content-container {
-  padding-top:200px;
+  /*padding-top:200px;*/
 }
 
 
@@ -151,8 +162,10 @@ body {
 @media (min-width: 768px) {
   /* Pull out the header and footer */
   .masthead {
-    position: fixed;
-    top: 0;
+    /*position: fixed;*/
+    padding:10px;
+    padding-bottom:30px;
+    top: 0px;
   }
   .mastfoot {
     position: fixed;
