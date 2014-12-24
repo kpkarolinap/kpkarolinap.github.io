@@ -113,6 +113,13 @@ body {
 }
 
 /*
+ * Home page
+ */
+ .cover-image {
+  border-radius:10px;
+ }
+
+/*
  * About page
  */
 .about-img {
@@ -134,6 +141,29 @@ body {
   background-color: #FFB2B2;
   border-radius:10px;
  }
+
+ /*
+  * Experience page
+  */
+  .experience-section {
+    overflow:hidden;
+  }
+
+  .experience-title {
+    text-align:left;
+  }
+
+  .experience-img {
+    width:50%;
+    height:50%;
+    padding:10px;
+    float:left;
+  }
+
+  .experience-summary {
+    padding:10px;
+    line-height:170%;
+  }
 
 /*
  * Cover
