@@ -157,6 +157,10 @@ body {
   border-radius:10px;
  }
 
+  .contact:hover {
+    background-color: #FF66FF;
+  }
+
  /*
   * Experience page
   */
