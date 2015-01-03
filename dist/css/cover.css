@@ -38,6 +38,12 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+.swirl {
+  background-image: url("../../images/swirl-grey.svg");
+  background-size:30%;
+  background-repeat: repeat;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
