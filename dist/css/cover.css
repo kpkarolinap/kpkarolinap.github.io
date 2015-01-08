@@ -67,7 +67,6 @@ body {
   padding: 10px;
 }
 
-
 /*
  * Press Page
  */
@@ -77,11 +76,11 @@ body {
 }
 
 .press-links {
-  text-align:left;
-  font-size:15px;
-  padding-top:20px;
-  line-height:200%;
   color:#FFFFAD;
+  font-size:15px;
+  line-height:200%;
+  padding-top:20px;
+  text-align:left;
 }
 
 .yellow {
@@ -156,11 +155,11 @@ body {
  * Contact page
  */
  .contact {
-  width:70px;
-  height:70px;
-  margin:10px;
   background-color: #FFB2B2;
   border-radius:10px;
+  margin:10px;
+  height:70px;
+  width:70px;
  }
 
   .contact:hover {
@@ -181,9 +180,9 @@ body {
   .experience-img {
     width:40%;
     height:40%;
-    padding:10px;
-    float:left;
     border-radius:20px;
+    float:left;
+    padding:10px;
   }
 
   .bigger-size {
@@ -201,20 +200,16 @@ body {
     line-height:170%;
   }
 
+
 /*
  * Cover
  */
-
 .cover {
   padding: 0 20px;
 }
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
-}
-
-.featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
 
 
